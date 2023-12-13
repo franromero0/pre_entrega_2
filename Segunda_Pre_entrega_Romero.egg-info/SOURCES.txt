@@ -1,0 +1,10 @@
+setup.py
+Segunda_Pre_entrega_Romero/__init__.py
+Segunda_Pre_entrega_Romero/clase_cliente.py
+Segunda_Pre_entrega_Romero/notas_leer.py
+Segunda_Pre_entrega_Romero/pre_entrega_1.py
+Segunda_Pre_entrega_Romero/programa.py
+Segunda_Pre_entrega_Romero.egg-info/PKG-INFO
+Segunda_Pre_entrega_Romero.egg-info/SOURCES.txt
+Segunda_Pre_entrega_Romero.egg-info/dependency_links.txt
+Segunda_Pre_entrega_Romero.egg-info/top_level.txt
